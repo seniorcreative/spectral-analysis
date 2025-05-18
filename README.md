@@ -1,5 +1,6 @@
 # JWST Atmospheric Composition Analyzer
 
+Demo for Astronomical Society of Geelong.
 A Python application to analyze astronomical data from the JWST API, focusing on planetary atmospheric composition.
 
 ## Features
